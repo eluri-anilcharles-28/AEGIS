@@ -1,4 +1,10 @@
+unsloth
+trl<=0.24.0
+peft
+accelerate
+bitsandbytes
+datasets<4.4.0
+huggingface_hub
+wandb
 torch
 transformers
-accelerate
-sentencepiece
