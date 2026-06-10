@@ -4,13 +4,13 @@
 
 | Dataset | Author | License |
 
-CodeFeedback-Filtered-Instruction | m-a-p | Apache 2.0 |
-OpenCodeInstruct | NVIDIA | CC BY 4.0 |
-LeetCodeDataset | newfacade | MIT |
-python-codes-25k | flytech | Apache 2.0 |
-CodeAlpaca-20k | sahil2801 | Apache 2.0 |
-Electrical-engineering | STEM-AI-mtl or William Harbec | 
-stm32-hal-dataset | MuratKomurcu | MIT |
+|CodeFeedback-Filtered-Instruction | m-a-p | |Apache 2.0 |
+|OpenCodeInstruct | NVIDIA | CC BY 4.0 |
+|LeetCodeDataset | newfacade | MIT |
+|python-codes-25k | flytech | Apache 2.0 |
+|CodeAlpaca-20k | sahil2801 | Apache 2.0 |
+|Electrical-engineering | STEM-AI-mtl or | William Harbec | 
+|stm32-hal-dataset | MuratKomurcu | MIT |
 
 ## Custom Dataset
 Hand-curated Arduino/ESP32 examples by C-28
