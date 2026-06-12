@@ -104,7 +104,7 @@ All sources are open-licensed. Full attribution in `dataset/README.md`.
 
 | Dataset | Author | License |
 |---|---|---|
-| Electrical-engineering | STEM-AI-mtl | — |
+| Electrical-engineering | STEM-AI-mtl | MIT |
 | stm32-hal-dataset | MuratKomurcu | MIT |
 | Hand-curated Arduino/ESP32 | C-28 (original) | Apache 2.0 |
 | Temperature-humidity-device | eluri-anilcharles-28 | Apache 2.0 |
