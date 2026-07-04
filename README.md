@@ -8,7 +8,7 @@ A domain-specialized 7B code model for embedded systems engineers. Built on free
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Model](https://img.shields.io/badge/Model-HuggingFace-yellow)](https://huggingface.co/eluricharles/AEGIS-V1)
 [![W&B](https://img.shields.io/badge/Tracked-Weights%20%26%20Biases-orange)](https://wandb.ai/eluricharles-independent-researcher)
-[![arXiv](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/ARXIV_ID)
+[![Zenodo](https://img.shields.io/badge/Paper-arXiv-red)](https://zenodo.org/records/20668166)
 [![Python](https://img.shields.io/badge/Python-3.12-blue)]()
 [![CUDA](https://img.shields.io/badge/CUDA-12.8-green)]()
 
